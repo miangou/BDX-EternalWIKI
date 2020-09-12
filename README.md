@@ -1,2 +1,4 @@
-# BDX-EternalWIKI
+# 关于本站
+
 BDX-EternalWIKI
+
